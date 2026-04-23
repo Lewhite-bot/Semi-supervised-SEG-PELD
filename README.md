@@ -1,4 +1,4 @@
-<img width="1547" height="1125" alt="image" src="https://github.com/user-attachments/assets/b8c421a2-21ee-4404-be5a-0ee71401dd6e" />🧠 Semi-Supervised Nerve Root Segmentation for MISS
+🧠 Semi-Supervised Nerve Root Segmentation for MISS
 
 This repository provides the official implementation of our work on semi-supervised nerve root segmentation for minimally invasive spine surgery (MISS).
 
